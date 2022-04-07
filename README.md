@@ -1,6 +1,7 @@
 # Nebula Variational Coding
 
 ![clusters](images/thesis_teaser_pami22.png#center)
+| [paper](https://ieeexplore.ieee.org/document/9740011/) | [code](https://github.com/wangyida/nebula-anchors) |
 
 BSD 3-Clause License Copyright (c) 2022, Yida Wang All rights reserved.
 
